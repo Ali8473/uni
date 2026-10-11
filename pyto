@@ -1,0 +1,6 @@
+print("hello,world!")
+name = "sara"
+age = 22
+height = 1.88
+print(name)
+print(age+height)
